@@ -1,0 +1,62 @@
+{
+    "questions": {
+        "inflamation":
+        {
+            "question": "¿La glándula tiroides presenta inflamación?",
+            "options": ["Sí", "No"]
+        },
+
+        "tachycardia" :
+        {
+            "options": ["Sí", "No"],
+            "question": "¿Se presenta taquicardia (aumento exacervado del ritmo cardíaco)?"
+        },
+
+        "sudoration_increase":
+        {
+            "question": "¿Se presentaron casos de aumento en la sudoración?",
+            "options": ["Sí", "No"]
+        },
+
+        "weight_loss":
+        {
+            "question": "¿Hubo pérdida de peso reciente?",
+            "options": ["Sí", "No"]
+        },
+
+        "free_tsh":
+        {
+            "question": "¿Cuál es el resultado de la medición de TSH Libre?",
+            "options": ["Normal", "Bajo", "Elevado"]
+        },
+
+        "free_t4": {
+            "question": "¿Cuál es el resultado de la medición de T4 Libre?",
+            "options": ["Normal", "Bajo", "Elevado"]
+        },
+
+        "free_t3":
+        {
+            "question": "¿Cuál es el resultado de la medición de T3 Libre?",
+            "options": ["Normal", "Bajo", "Elevado"]
+        },
+
+        "tyroidic_capture":
+        {
+            "question": "¿Cuál es el resultado del estudio de la captación tiroidea?",
+            "options": ["Bajo", "Elevado y difuso", "Elevado y nodular"]
+        },
+
+        "triglobuline":
+        {
+            "question": "¿Cuál es el resultado del estudio de la medición de triglobulina?",
+            "options": ["Bajo", "Elevado"]
+        },
+
+        "nodular_area":
+        {
+            "question": "¿Existe una única área nodular preponderante o múltiples similares?",
+            "options": ["Múltiples", "Única"]
+        }
+    }
+}

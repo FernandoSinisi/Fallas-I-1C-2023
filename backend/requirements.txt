@@ -1,0 +1,12 @@
+# pip install -r requirements.txt
+#
+# Or, in Ubuntu (recommended)
+# python3 -m pip install -r requirements.txt
+#
+# Or, if you have a new Python version installed
+# py -m pip install -r requirements.txt
+
+experta
+Flask==2.0.3
+gunicorn==20.1.0
+flask_cors
